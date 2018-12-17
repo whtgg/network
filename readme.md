@@ -6,3 +6,5 @@ go网络层面的应用
 
   - gochat              多人聊天室
   - dealConcurrent      模拟go中的高并发场景
+  - httpProxy           网络代理  (debug中)
+  - findDNS             DNS解析器

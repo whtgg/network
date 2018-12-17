@@ -1,3 +1,7 @@
+/**
+ * Created by Goland
+ * User: lishangyuzi
+ */
 package dealConcurrent
 
 import (
@@ -69,4 +73,5 @@ func (d *Dispatcher) Run() {
 		worker := NewWorker()
 		worker.Start()
 	}
+
 }

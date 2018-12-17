@@ -1,5 +1,8 @@
 /**
-	实现一个server作中转群发消息，多个客户端聊天
+ * Created by Goland
+ * User: lishangyuzi
+ *
+ * 实现一个server作中转群发消息，多个客户端聊天
  */
 package main
 
